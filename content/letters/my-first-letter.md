@@ -1,21 +1,17 @@
 ---
 title: "My First Letter to You"
 date: "2026-03-10"
-excerpt: "The very first letter I'm writing to you, Ashton. I've thought about this moment for so long."
+excerpt: "The very first letter I'm writing to you, Ashton."
 ---
 
-Dear Ashton,
+Ashton,
 
-I've thought about writing this letter more times than I can count. Where do you even begin when you have a lifetime of things to say?
+It's extremely unfortunate that I am contacting you like this under these circumstances. I have loved you since the second I learned you existed. I was excited when I learned I was going to be a dad. Fate didn't turn out that way, though.
 
-I guess I'll start with this: I love you. I've loved you from the moment I knew you existed, and that has never changed — not for a single second.
+Regardless of how it has happened, it has taken me this long to be in a position to feel it is okay to contact you and tell you about myself.
 
-I created this little corner of the internet just for you. It's a place where I can share my thoughts, tell you about who I am, and hopefully one day, learn about who you are too.
+I am your dad. And this page is about us. When you learn about this, you will have many questions. I encourage you to ask them. I will be an open book to you.
 
-There's no rush. There's no pressure. These letters will be here whenever you're ready — whether that's today, next year, or twenty years from now.
-
-I want you to know that you are thought about every single day. You are loved beyond measure. And whenever the time is right, I'll be here.
-
-With all my love,
+I love you so much, and I can't wait to meet you.
 
 Dad
