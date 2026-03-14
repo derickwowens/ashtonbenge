@@ -82,7 +82,7 @@ export default function AboutPage() {
         <h3 className="text-xl font-serif font-semibold text-stone-800 mb-4">
           Your Dad
         </h3>
-        <div className="prose font-serif text-lg leading-relaxed text-stone-700">
+        <div className="prose font-serif text-lg leading-relaxed text-stone-700 mb-6">
           <p className="mb-4">
             My name is Derick Owens. I&apos;m 37 years old and I work as a Lead Software Engineer at State Farm. Yes, like the insurance company from the commercials.
           </p>
@@ -92,9 +92,30 @@ export default function AboutPage() {
           <p className="mb-4">
             I&apos;ve traveled around the world and have always been curious about everything. I&apos;ve studied history, religions, and just about anything that helps me understand people and the world better.
           </p>
-          <p>
+          <p className="mb-4">
             Our household loves good music and Disney movies. You&apos;d fit right in.
           </p>
+          <p>
+            My favorite artists are Zach Bryan, Oliver Anthony Music, The Avett Brothers, and Sons of the East. Generally lots of Americana and bluegrass type of music.
+          </p>
+        </div>
+        <div className="grid grid-cols-2 gap-4 max-w-md">
+          <div className="relative aspect-square rounded-xl overflow-hidden border border-warmth-200">
+            <Image
+              src="/images/silly dad.jpg"
+              alt="Derick"
+              fill
+              className="object-cover"
+            />
+          </div>
+          <div className="relative aspect-square rounded-xl overflow-hidden border border-warmth-200">
+            <Image
+              src="/images/silly dad2.jpg"
+              alt="Derick"
+              fill
+              className="object-cover"
+            />
+          </div>
         </div>
       </div>
 
@@ -102,13 +123,63 @@ export default function AboutPage() {
         <h3 className="text-xl font-serif font-semibold text-stone-800 mb-4">
           Your Sister, Lolly
         </h3>
-        <div className="prose font-serif text-lg leading-relaxed text-stone-700">
+        <div className="prose font-serif text-lg leading-relaxed text-stone-700 mb-6">
           <p className="mb-4">
             You have a little sister. Her name is Lolly, and she&apos;s 3 years old, going on 4.
           </p>
           <p>
             She doesn&apos;t know about you yet, but someday she will. And I know she&apos;d love to meet her big sister.
           </p>
+        </div>
+        <div className="grid grid-cols-2 md:grid-cols-3 gap-4">
+          <div className="relative aspect-square rounded-xl overflow-hidden border border-warmth-200">
+            <Image
+              src="/images/187910039.jpg"
+              alt="Lolly"
+              fill
+              className="object-cover"
+            />
+          </div>
+          <div className="relative aspect-square rounded-xl overflow-hidden border border-warmth-200">
+            <Image
+              src="/images/PXL_20250715_012401942.MP.jpg"
+              alt="Derick and Lolly"
+              fill
+              className="object-cover"
+            />
+          </div>
+          <div className="relative aspect-square rounded-xl overflow-hidden border border-warmth-200">
+            <Image
+              src="/images/PXL_20251227_180701439.jpg"
+              alt="Derick and Lolly"
+              fill
+              className="object-cover"
+            />
+          </div>
+          <div className="relative aspect-square rounded-xl overflow-hidden border border-warmth-200">
+            <Image
+              src="/images/PXL_20240713_160221994.jpg"
+              alt="Derick and Lolly"
+              fill
+              className="object-cover"
+            />
+          </div>
+          <div className="relative aspect-square rounded-xl overflow-hidden border border-warmth-200">
+            <Image
+              src="/images/PXL_20240810_010344474.MP.jpg"
+              alt="Derick and Lolly"
+              fill
+              className="object-cover"
+            />
+          </div>
+          <div className="relative aspect-square rounded-xl overflow-hidden border border-warmth-200">
+            <Image
+              src="/images/PXL_20250224_131427503.jpg"
+              alt="Derick and Lolly"
+              fill
+              className="object-cover"
+            />
+          </div>
         </div>
       </div>
     </div>

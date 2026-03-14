@@ -15,6 +15,9 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
+      <head>
+        <script defer src="https://cloud.umami.is/script.js" data-website-id="db9d39ba-8e36-459e-8405-f91580a12870"></script>
+      </head>
       <body className="min-h-screen flex flex-col font-serif antialiased">
         <Header />
         <main className="flex-1">{children}</main>
